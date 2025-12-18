@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>测试</title>
+    <link href="/2025/12/18/%E6%B5%8B%E8%AF%95/"/>
+    <url>/2025/12/18/%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<p>这里是文章正文内容。</p><!-- 方法一：使用 asset_img 标签 --><!-- 方法二：直接引用 --><p><img src="/test.png" alt="图片描述"></p><!-- 方法三：使用完整路径 --><p><img src="/images/test.png" alt="图片描述"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>暂无</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/12/17/hello-world/"/>
     <url>/2025/12/17/hello-world/</url>
